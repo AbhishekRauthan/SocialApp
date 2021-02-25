@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "social-app-25d9d": {
+      "hosting": {
+        "social": [
+          "social-app-25d9d"
+        ]
+      }
+    }
+  }
+}
